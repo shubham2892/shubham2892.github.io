@@ -9,9 +9,7 @@ categories: General
  - How it started?
  - With a phone call from a friend. I always kind of wanted to go for Master's but never took any concrete steps
    towards it. I was scared that I won't be ever able to crack GRE given my poor english. But that's the good thing
-   about working in a startup, it led me to believe anything and everything is possible for literate like me given he
-   put his mind to it. So I decided to give it a shot. That night I registered for GRE, without thinking ahead how
-   I would prepare, balance things with my work. All I knew was I wanted to do it and it was important to me.
+   about working in a startup, it led me to believe anything and everything is possible for literate mind like me given he put his mind to it. So I decided to give it a shot. That night I registered for GRE, without thinking ahead how I would prepare, balance things with my work. All I knew was I wanted to do it and it was important to me.
 
    Thus began the journey that would lead me to "Living the American Dream". I had 40 days to prepare. Some would argue that's too less. It is not. It was perfect. Next 40 days were tough, I had to constantly remind myself that this is important to me to keep the motivation going and study for hours after coming back from office at 10 o clock everyday. Somehow I did manage to get a decent score. All the while, I thought cracking the GRE would be the toughest step of the whole process, but it was not. On the contrary, it was the easiest.
 
