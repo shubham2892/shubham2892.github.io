@@ -1,25 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-07-28 17:22:31 -0400
-categories: jekyll update
+title:  "Living the American Dream(Almost)"
+date:   2017-07-30 01:31:31 -0400
+categories: General
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+ Notes:
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+ - How it started?
+ - With a phone call from a friend. I always kind of wanted to go for Master's but never took any concrete steps
+   towards it. I was scared that I won't be ever able to crack GRE given my poor english. But that's the good thing
+   about working in a startup, it led me to believe anything and everything is possible for literate like me given he
+   put his mind to it. So I decided to give it a shot. That night I registered for GRE, without thinking ahead how
+   I would prepare, balance things with my work. All I knew was I wanted to do it and it was important to me.
 
-Jekyll also offers powerful support for code snippets:
+   Thus began the journey that would lead me to "Living the American Dream". I had 40 days to prepare. Some would argue that's too less. It is not. It was perfect. Next 40 days were tough, I had to constantly remind myself that this is important to me to keep the motivation going and study for hours after coming back from office at 10 o clock everyday. Somehow I did manage to get a decent score. All the while, I thought cracking the GRE would be the toughest step of the whole process, but it was not. On the contrary, it was the easiest.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+   Once you have the GRE score, comes the step of researching on colleges according to your profile. If you are really desperate and rich, you can shortlist as many as 10 colleges. I went with 5. 1 ambitious, 3 moderate and 1 safe. At this time, I wished for the first time that I had good CG in college(7.3 is not that bad though). It limited my options of college I could potentially get admit from. Also, Being in no touch with the professors of my college, It was tough to get recommendations as I had been out of the college for a while. Still, they were nice enough to send a recommendation my way. Managing to submit all application before the deadline was triumph in itself.  
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+   After the endless wait(or at least it feels like it), admits start pouring in. For me it was like admit, reject, reject, reject and admit. First admit was from Indiana University. Then reject from Ohio, Rutgers and University of Minessota. Reject from Rutger's really broke my heart. I am going to Indiana University. Then finally admit from NCSU all the way in March end. For whole March, first thing I would do after waking up open NCSU portal to check for the result. Thinking about that time, I really believed going to MS would solve all my problems. I will be paid handsomely for punching out state of the art from my keyboard everyday. And you know "other expectations" we Indians have from majestic foreign land of America.
