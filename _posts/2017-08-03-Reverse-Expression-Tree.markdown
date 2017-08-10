@@ -6,7 +6,7 @@ The problem is to reverse the expression tree. For example if you are given a ex
 
 then the desired output would be `I(HGF)E(DC)(BA)`.
 
-Notice that each sub-expression is reversed within themselves and the order of each sub-expression is also reversed.
+Notice that each sub-expression is reversed within themselves and the order of each main sub-expression is also reversed.
 
 Looking at the given and desired expression gives a hint that solution would require the use of recursion(Each sub-expression is individually reversed) and stacks(Expression tree duh!). Let's tackle the problem in parts.
 
@@ -56,7 +56,7 @@ string reverse_expression_simple_version(string input){
 
 Output from above program will be `I(FGH)E(CD)(AB)`.
 
-To tackle the part where each sub-expression is also reversed individually, we can call the above function recursively for each of the sub-expression. How do we accomodate that in the above function. While we are pushing the sub-expression on to the stack, let's push the reversed expression.
+To tackle the part where each sub-expression is also reversed individually, we can call the above function recursively for each of the sub-expression. How do we accomodate that in the above function. While we are pushing the sub-expression on to the stack, let's recursively call the function with just the sub-expression.
 
 ```C++
 string reverse_expression(string input, int start, int end) {
@@ -90,6 +90,6 @@ string reverse_expression(string input, int start, int end) {
 }
 ```
 
-The output from the above expression would be `(AB)(CD)E(FGH)I`.
+The output from the above expression would be `I(HGF)E(DC)(BA)`.
 
 Any input on improving the solution would be highly appreciated.
